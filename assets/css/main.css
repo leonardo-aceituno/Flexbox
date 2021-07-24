@@ -8376,7 +8376,10 @@ img {
   height: 60px;
   width: 30%;
   color: white;
-  background-color: pink; }
+  background-color: pink;
+  display: flex;
+  align-items: center;
+  justify-content: center; }
 
 .div-04 {
   height: 300px; }
